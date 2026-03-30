@@ -1,5 +1,7 @@
 🚀 Ravenstack SaaS Executive Dashboard
+
 End-to-End SQL & Power BI Analytics Project
+
 📌 Project Overview
 This project provides a comprehensive analysis of Ravenstack, a fictional SaaS company. The goal was to transform raw, fragmented data into an interactive Executive Dashboard that tracks Monthly Recurring Revenue (MRR), Customer Retention, and Support Performance.
 
