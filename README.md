@@ -52,8 +52,8 @@ Authored custom measures to provide deeper business insights:
 ## 📸 Dashboard Preview
 - Executive Overview
 
-<img width="1235" height="694" alt="image" src="https://github.com/user-attachments/assets/47dafd0c-981c-436c-90c5-67b3f5039fd1" />
+<img width="1178" height="661" alt="image" src="https://github.com/user-attachments/assets/2d9dfc9d-fe2d-4299-9a9b-18dca2605382" />
 
 - Revenue & Support Deep-Dive
 
-<img width="1215" height="683" alt="image" src="https://github.com/user-attachments/assets/4890b6da-0db5-4ff8-b71d-d8b81561ccfc" />
+<img width="1172" height="665" alt="image" src="https://github.com/user-attachments/assets/15f3d078-4787-43f4-a78a-90287219a448" />
